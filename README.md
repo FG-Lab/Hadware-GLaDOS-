@@ -1,2 +1,2 @@
 # Hadware-GLaDOS-
-wild collection of Doks from the Projekt 
+wild collection of Docs from the Projekt 
