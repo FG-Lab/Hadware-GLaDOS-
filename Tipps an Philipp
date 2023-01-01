@@ -1,0 +1,20 @@
+3D-Drucker, Hinweise von Leon (nach vielen Fehlversuchen und Leid :)):
+
+- Die Ultimate Cura Software verwenden, um Druck einzustellen
+    - Immer mit dem Typ .gscode arbeiten
+    - Immer offline printen, dass heißt per SD-Karte
+    - "Anycubic i3 Mega" auswählen (Nicht Mega S oder Mega S Pro!)
+
+- Vibrationen vermeiden, dazu:
+    - Platte fest kleben
+    - Während dem Drucken NICHT an der Platte oder dem Drucker rütteln! Jegliche Erschütterungen verringern die Erfolgrate!
+    - Schwarzes Seil unter der Platte festmachen, so dass das Band beim Schwingen einen tiefen Ton macht
+    - Der Untergrund muss möglichst stabil und vibrationsdämmend sein
+    - Mit möglichst langsamer Geschwindigkeit drucken, dazu:
+        - Print-Speed runter drehen (10-25)
+        - Travel-Speed runter drehen (20-30)
+    - Fehler beim Layerwechsel vermeiden, dazu "Retract Layer Change" auswählen
+
+- Fillament Versorung beachten:
+    - Manchmal verhädert sich das Filament in der Rolle, immer wieder checken!
+    - Extruder fehlt?
